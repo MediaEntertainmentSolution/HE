@@ -43,11 +43,9 @@
     position:absolute;
     left:50%;
     transform: translateX(-50%);
-    /* Position from top instead of bottom for better alignment with background text */
-    top: clamp(300px, 40dvh, 450px);
+    bottom: max(0px, env(safe-area-inset-bottom));
     width: min(92%, 420px);
-    height: calc(100dvh - clamp(300px, 40dvh, 450px) - max(0px, env(safe-area-inset-bottom)));
-    min-height: 400px;
+    height: clamp(562px, 76.5dvh, 740px);
     background:#fff;
     border-radius: 150px 150px 0 0;
     box-shadow: var(--shadow);
