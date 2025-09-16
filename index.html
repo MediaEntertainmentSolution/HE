@@ -6,7 +6,7 @@
 <title>Media Entertainment Solution</title>
 <style>
   :root{
-    --accent:#e60012;     /* LG red */
+    --accent:#e60012;     
     --wa:#25D366;         /* WhatsApp green */
     --pill:#f2ede6;
     --shadow: 0 10px 30px rgba(0,0,0,.08);
@@ -24,19 +24,31 @@
 
   .wrapper{
     position: relative;
-    width: min(100vw, 430px);
+    width: 100vw;  /* Allow full width */
+    max-width: 430px;  /* But limit on very large screens */
     height: 100dvh;
     overflow:hidden;
     top:0;
+    margin: 0 auto;  /* Center it */
+  }
+
+  @media (min-width: 431px) {
+    .wrapper {
+      max-width: 100vw;  /* Allow full width on tablets+ */
+    }
+    .main {
+      width: min(92%, 600px);  /* Make the white container wider on larger screens */
+    }
   }
 
   .banner{
     position:absolute;
     inset:0;
-    background: url("1.png") no-repeat center top;
+    background: url("1.png") no-repeat center center;
     background-size: cover;
     z-index:0;
-    top: 0px; 
+    /* Ensure it covers properly on all screen sizes */
+    background-attachment: fixed;
   }
 
   .main{
