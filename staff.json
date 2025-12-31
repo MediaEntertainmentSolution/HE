@@ -5,14 +5,13 @@
   {"StaffID": "yLJlRlY6","Name": "Dicky","FullName": "Dicky Oh","WhatsApp": "9169 9054","Channel": "Best Denki","Outlet": "Vivo"},
   {"StaffID": "4255VIrU","Name": "Don","FullName": "Don Ho","WhatsApp": "9119 8787","Channel": "Best Denki","Outlet": "Vivo"},
   {"StaffID": "4hJS8dYm","Name": "Melvin","FullName": "Melvin Ho","WhatsApp": "9109 2866","Channel": "Best Denki","Outlet": "IMM"},
-  {"StaffID": "KfKcx18C","Name": "Alex","FullName": "Alex Yeap","WhatsApp": "9008 8620","Channel": "Best Denki","Outlet": "IMM"},
-  {"StaffID": "xMcUKWfM","Name": "Kevin","FullName": "Kevin Eng","WhatsApp": "9880 1761","Channel": "Best Denki","Outlet": "Great World City"},
+  {"StaffID": "KfKcx18C","Name": "Alex","FullName": "Alex Yeap","WhatsApp": "9008 8620","Channel": "Best Denki","Outlet": "Junction 8"},
+  {"StaffID": "xMcUKWfM","Name": "Kevin","FullName": "Kevin Eng","WhatsApp": "9880 1761","Channel": "Best Denki","Outlet": "IMM"},
   {"StaffID": "Jt08uaW8","Name": "Joseph","FullName": "Joseph Low","WhatsApp": "9668 0978","Channel": "Best Denki","Outlet": "Junction 8"},
-  {"StaffID": "8rH9JoeZ","Name": "Wilson","FullName": "Wilson See","WhatsApp": "8922 0279","Channel": "Best Denki","Outlet": "Junction 8"},
-  {"StaffID": "e7zt6Vvj","Name": "Yannick","FullName": "Yannick Kwek","WhatsApp": "8779 5462","Channel": "Best Denki","Outlet": "Parkway Parade "},
+  {"StaffID": "8rH9JoeZ","Name": "Wilson","FullName": "Wilson See","WhatsApp": "8922 0279","Channel": "Best Denki","Outlet": "Parkway Parade "},
+  {"StaffID": "e7zt6Vvj","Name": "Yannick","FullName": "Yannick Kwek","WhatsApp": "8779 5462","Channel": "Best Denki","Outlet": "Great World City"},
   {"StaffID": "q4nML1o4","Name": "Simon","FullName": "Simon Kho","WhatsApp": "8866 1718","Channel": "Best Denki","Outlet": "Plaza Singapura"},
   {"StaffID": "uolxV5HW","Name": "Glenn","FullName": "Glenn Ong","WhatsApp": "8686 0509","Channel": "Best Denki","Outlet": "Waterway Point"},
-  {"StaffID": "7u60oXu3","Name": "Chris","FullName": "Chris Lee","WhatsApp": "9143 0010","Channel": "Best Denki","Outlet": "Funan"},
   {"StaffID": "KM064cd9","Name": "Jonathan","FullName": "Jonathan Ng","WhatsApp": "9003 2905","Channel": "Best Denki","Outlet": "Bedok Mall"},
   {"StaffID": "5a1DaY7u","Name": "Kelvin","FullName": "Kelvin Teng","WhatsApp": "9698 6811","Channel": "Best Denki","Outlet": "Jurong Point / Clementi"},
   {"StaffID": "45i0nTxF","Name": "Don","FullName": "Don Ho","WhatsApp": "9066 1250","Channel": "Courts","Outlet": "Megastore"},
@@ -53,5 +52,6 @@
   {"StaffID": "L8mF3783","Name": "Sky","FullName": "Sky Wong","WhatsApp": "9815 1442","Channel": "Audio House","Outlet": "Ubi"},
   {"StaffID": "mALBDFY5","Name": "Amos","FullName": "Amos Goh","WhatsApp": "9003 3032","Channel": "Audio House","Outlet": "Ubi"},
   {"StaffID": "9p2Ie6C8","Name": "Eugene","FullName": "Eugene Ang","WhatsApp": "8853 1251","Channel": "Mustafa","Outlet": ""},
-  {"StaffID": "fEGxk603","Name": "Jacky","FullName": "Jacky Chan","WhatsApp": "9385 2873","Channel": "Parisilk","Outlet": "Holland Village"}
+  {"StaffID": "fEGxk603","Name": "Jacky","FullName": "Jacky Chan","WhatsApp": "9385 2873","Channel": "Parisilk","Outlet": "Holland Village"},
+  {"StaffID": "5Da2r26i","Name": "Chee Keong","FullName": "Tan Chee Keong","WhatsApp": "9199 7726","Channel": "Best Denki","Outlet": "Funan"}
 ]
